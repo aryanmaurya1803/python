@@ -1,4 +1,4 @@
-'''for i in range(0,12):
+for i in range(0,12):
     a=int(input('enter a number you want'))
     if(a==1):
         print('january')
@@ -25,31 +25,9 @@
     elif(a==12):
         print('december')
     else:
-        print('error')'''
-
-'''a=int(input('enter a number'))
-if(a%2==0):
-   print('even')
-else:
-    pint('odd')
-a=int(input('enter a number1'))
-b=int(input('enter a number2'))
-if(a>b):
-    print('a is greater')
-elif(a<b):
-    print('b is greather')
-else:
-    print('error')'''
+        print('error')
 
 
-
-l1=[]
-b=input('enter a number')
-for i in b:
-    d=int(input('enter a number'))
-    c=d**3
-    l1.append(c)
-print(l1)
 
 
 
