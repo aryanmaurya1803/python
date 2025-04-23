@@ -1,0 +1,4 @@
+"""remove list element"""
+list1=[3,55,77,55]
+list1.remove(77)
+print(list1)
